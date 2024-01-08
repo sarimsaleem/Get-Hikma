@@ -1,0 +1,1132 @@
+ /*           Max 767  
+        Min 768 max 991
+        Min 992 max 1200 
+        Min 1201 max 1400  */
+
+ @media (max-width: 767px) {
+
+     .main-heading {
+         font-size: 24px;
+         font-weight: bold;
+     }
+
+     .main-para {
+         font-size: 16px;
+     }
+
+     .creat {
+         margin-bottom: 200px;
+     }
+
+     .header-with-section .top-header .links a {
+        font-size: 9px;
+        width: 100%;
+     }
+
+     .logo-image-main {
+         width: 155px;
+         height: 35px;
+         object-fit: contain;
+
+     }
+
+     .section {
+         padding-block: 50px;
+     }
+
+     .header-section .get-started {
+         width: 150px;
+         font-size: 16px;
+         height: 40px;
+
+     }
+
+     .header-section-with-img {
+         margin: 50px 0px 0px;
+     }
+
+     .education-image {
+         width: 300px;
+         height: 250;
+     }
+
+     .gethikma-image-1 img {
+         width: 150px;
+         height: 150px;
+         top: auto;
+         bottom: 304px;
+         left: 148px;
+         right: auto;
+         object-fit: contain;
+     }
+
+     .squre {
+         width: 100%;
+         height: 350px;
+         max-width: 300px;
+         margin: auto;
+     }
+
+     .gethikma-image-2 img {
+         width: 440px;
+         height: 220px;
+         top: auto;
+         left: auto;
+         right: 3px;
+         bottom: -4px;
+     }
+
+     .logg {
+         width: 145px;
+         height: 45px;
+     }
+
+     .learnmore {
+         width: 93px;
+         height: 23px;
+     }
+
+     .learn-more {
+         font-size: 15px;
+     }
+
+     .our-mission {
+         display: none;
+     }
+
+     .our-mission-head {
+         top: 400px;
+         bottom: auto;
+         right: auto;
+         left: auto;
+     }
+
+     .Our-Mission .col-12 {
+         height: 350px;
+     }
+
+     .our-mission-head h1 {
+         font-size: 25px;
+     }
+
+     .our-mission-head p {
+         font-size: 14px;
+     }
+
+     .image-parent {
+         width: 100%;
+         height: 350px;
+         object-fit: contain;
+         margin: auto;
+         margin-top: 160px;
+
+     }
+
+     .image-parent2 {
+         width: 100%;
+         height: 350px;
+         object-fit: contain;
+         margin: auto;
+         margin-top: 50px;
+
+     }
+
+     .list .list-item .list-item-icon {
+         width: 20px;
+         height: 20px;
+     }
+
+     .btn-icon {
+         height: 50px;
+         width: 140px;
+         object-fit: contain;
+     }
+
+     .btn-icon2 {
+         height: 50px;
+         width: 140px;
+         object-fit: contain;
+
+     }
+
+     .parent-card {
+         margin-bottom: 20px;
+     }
+
+     .parent-card h1 {
+         font-weight: bold;
+         width: 306px;
+         font-size: 24px;
+     }
+
+     .parent-card p {
+         font-size: 14px;
+     }
+
+     .card-section {
+         height: 130px;
+         width: 135px;
+     }
+
+     .card-img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+     }
+
+     .card-title-text {
+         font-size: 12px;
+
+     }
+
+     /* start  */
+
+     .massage-image {
+         display: none;
+     }
+
+     .section7 {
+         margin-top: 50px;
+     }
+
+     .massage-image1 {
+         display: none;
+     }
+
+     .massage-image2 {
+         display: none;
+     }
+
+     .massage-image3 {
+         display: none;
+     }
+
+     .Schedule-Meetings p {
+         font-size: 14px;
+     }
+
+     .box5 {
+         height: 130px;
+         width: 135px;
+     }
+
+     .box6 {
+         height: 130px;
+         width: 135px;
+         margin: 0px;
+         top: 0px;
+     }
+
+     .box5 img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+     }
+
+     .box6 img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+     }
+
+     .box5 h6 {
+         font-size: 12px;
+     }
+
+     .box6 h6 {
+         font-size: 12px;
+     }
+
+     .box {
+         display: flex;
+         justify-content: space-evenly;
+         flex-wrap: wrap;
+         gap: 9px;
+     }
+
+
+     /* end  */
+
+     .core-Values h1 {
+         font-size: 35px;
+     }
+
+     .core-Values p {
+         font-size: 14px;
+     }
+
+     /* start  */
+
+     .map {
+         display: none;
+     }
+
+     .testimonial-box {
+         width: 100%;
+         padding: 10px;
+         margin: 5px;
+     }
+
+     /* end  */
+
+
+
+     /* start  */
+     .envolope {
+         width: 100%;
+         height: 290px;
+     }
+
+     .contact-us p {
+         font-size: 14px;
+     }
+
+     .text-email {
+         padding-top: 1.6rem;
+     }
+
+     .your-name {
+
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .email-address {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .subject {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .message-contact {
+
+
+         width: 100%;
+         height: 250px;
+         padding: 20px 0px 0px;
+     }
+
+     .send-msg {
+         margin-top: 16px;
+         font-size: 18px;
+     }
+
+     /* end  */
+
+     /* start  */
+
+     .letter p {
+         font-size: 14px;
+     }
+
+     .inputsss {
+         width: 100%;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .plane {
+         width: 80px;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .mailbox img {
+         margin-top: 50px;
+         width: 100%;
+         height: 100%;
+     }
+
+     /* end  */
+
+     /* start  */
+     .footer-logo img {
+         width: 260px;
+         height: 60px;
+     }
+
+     .footer-heading {
+         font-size: 18px;
+     }
+
+     .icons {
+         padding: 0px;
+     }
+
+     .unordered {
+         padding: 0px;
+     }
+
+     /* end  */
+     .copyright {
+         padding: 10px 0px;
+         font-size: 11px;
+     }
+
+     /* circles  */
+
+     .round1 {
+         right: 11px;
+     }
+
+     .round2 {
+         right: 10px;
+     }
+
+     .round3 {
+         right: 14px;
+         top: 38px;
+     }
+
+     .round4 {
+         top: 37px;
+     }
+
+     .round5 {
+         right: 9px;
+         top: 37px;
+     }
+
+     .round6 {
+         right: 19px;
+         top: 38px;
+     }
+
+     .round7 {
+         left: 21px;
+     }
+
+     .round8 {
+         top: 36px;
+         left: 132px;
+     }
+
+     .round9 {
+         left: -11px;
+         top: 46px;
+     }
+
+     .round10 {
+         top: 38px;
+         right: 9px;
+     }
+ }
+
+ /* /////////////////////////////////////////////////////////////   end of the 767    /////////////////////////////////////////////////////// */
+
+ @media (min-width:768px) and (max-width:991px) {
+
+     .section {
+         padding-block: 50px;
+     }
+
+     .header-with-section .top-header .links a {
+
+         font-size: 15px;
+     }
+
+     .logo-image-main {
+         width: 230px;
+         height: 56px;
+         object-fit: contain;
+     }
+
+     .main-heading {
+         font-size: 24px;
+     }
+
+     .main-para {
+         font-size: 16px;
+     }
+
+     .header-section .get-started {
+         width: 150px;
+         font-size: 16px;
+         height: 40px;
+
+     }
+
+     .education-image {
+         width: 276px;
+     }
+
+     .gethikma-image-1 img {
+         width: 150px;
+         height: 150px;
+         margin-right: 50px;
+         position: absolute;
+         top: auto;
+         bottom: 127px;
+         left: 141px;
+         right: auto;
+     }
+
+     .squre {
+         height: 200px;
+         width: 200px;
+     }
+
+     .gethikma-image-2 img {
+         width: 200px;
+         height: 150px;
+         position: absolute;
+         top: 51px;
+         left: auto;
+         right: 31px;
+         bottom: auto;
+     }
+
+     .logg {
+         width: 100px;
+         height: 40px;
+     }
+
+     .learnmore {
+         font-size: 16px;
+     }
+
+     .learn-more {
+         font-size: 13px;
+     }
+
+     .Our-Mission {
+         padding-block: 50px;
+     }
+
+     .our-mission {
+         width: 100%;
+         height: 100%;
+     }
+
+     .our-mission-head {
+         bottom: 138px;
+
+     }
+
+     .Our-Mission .col-12 {
+         height: 200px;
+     }
+
+     .our-mission-head h1 {
+         font-size: 35px;
+     }
+
+     .our-mission-head p {
+         font-size: 20px;
+     }
+
+     .image-parent {
+         width: 100%;
+         height: 375px;
+         margin: auto;
+
+     }
+
+     .image-parent2 {
+         width: 100%;
+         height: 375px;
+         margin: auto;
+
+     }
+
+     .list .list-item .list-item-icon {
+         width: 20px;
+         height: 20px;
+     }
+
+     .btn-icon {
+         height: 50px;
+         width: 140px;
+     }
+
+     .btn-icon2 {
+         height: 50px;
+         width: 120px;
+     }
+
+     .parent-card {
+         margin-bottom: 20px;
+     }
+
+     .parent-card h1 {
+         font-weight: bold;
+         width: 260px;
+     }
+
+     .parent-card p {
+         font-size: 14px;
+     }
+
+     .card-section {
+         height: 130px;
+         width: 160px;
+     }
+
+     .card-img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+
+     }
+
+     .card-title-text {
+         font-size: 12px;
+
+     }
+
+
+     .envolope {
+         width: 100%;
+         height: 383px;
+     }
+
+     .contact-us p {
+         font-size: 14px;
+     }
+
+     .contact-us h1 {
+         font-weight: bold;
+     }
+
+     .text-email {
+         padding-top: 1.6rem;
+     }
+
+     .your-name {
+
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .email-address {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .subject {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .message-contact {
+
+
+         width: 100%;
+         height: 250px;
+         padding: 20px 0px 0px;
+     }
+
+     .send-msg {
+         margin-top: 16px;
+         font-size: 18px;
+         width: 190px;
+         height: 50px;
+     }
+
+     .letter p {
+         font-size: 14px;
+     }
+
+     .inputsss {
+         width: 100%;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .plane {
+         width: 80px;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .mailbox img {
+         margin-top: 50px;
+         width: 100%;
+         height: 100%;
+     }
+
+     .inputs-plane {
+         width: 400px;
+     }
+
+     .footer-logo img {
+         width: 260px;
+         height: 60px;
+     }
+
+     .footer-heading {
+         font-size: 18px;
+     }
+
+     .map {
+         display: none;
+     }
+
+     .box5 h6 {
+         font-size: 12px;
+     }
+
+     .box6 h6 {
+         font-size: 12px;
+     }
+
+     .box5 img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+     }
+
+     .box6 img {
+         right: 15px;
+         top: 35px;
+         height: 60px;
+         width: 70px;
+     }
+
+     .box5 {
+         height: 110px;
+         width: 150px;
+     }
+
+     .box6 {
+         height: 100px;
+         width: 150px;
+         top: 130px;
+     }
+
+     .Schedule-Meetings p {
+         font-size: 14px;
+     }
+
+     .massage-image {
+         left: 10px;
+     }
+
+     .massage-image1 {
+         left: 65px;
+         bottom: -130px;
+     }
+
+     .massage-image2 {
+         left: 250px;
+     }
+
+     .massage-image3 {
+         right: 65px;
+     }
+
+     .copyright {
+         padding: 0px 12px;
+         font-size: 12px;
+     }
+     
+     /* circles  */
+
+     .round1 {
+        right: 17px;
+    }
+
+    .round2 {
+        right: 17px;
+    }
+
+    .round3 {
+        right: 17px;
+        top: 38px;
+    }
+
+    .round4 {
+        top: 37px;
+    }
+
+    .round5 {
+        right: 17px;
+        top: 37px;
+    }
+
+    .round6 {
+        right: 24px;
+        top: 38px;
+    }
+
+    .round7 {
+        left: 235px;
+        top: 39px;
+    }    
+
+    .round8 {
+        top: 36px;
+        left: 212px;
+    }
+
+    .round9 {
+        left: -11px;
+        top: 38px;
+    }
+
+    .round10 {
+        top: 38px;
+        right: 17px;
+    }
+ }
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+ @media (min-width:992px) and (max-width:1200px) {
+
+
+     .section {
+         padding-block: 50px;
+     }
+
+     .logo-image-main {
+         width: 250px;
+         height: 60px;
+     }
+
+     .main-heading {
+         font-size: 35px;
+     }
+
+     .main-para {
+         font-size: 20px;
+     }
+
+     .header-section .get-started {
+         width: 190px;
+         font-size: 18px;
+         height: 50px;
+
+     }
+
+     .education-image {
+         width: 400px;
+         height: 335px;
+
+     }
+
+     .header-with-section .top-header .links a {
+
+         font-size: 18px;
+
+     }
+
+     .gethikma-image-1 img {
+         width: 150px;
+         height: 150px;
+         margin-right: 50px;
+         position: absolute;
+         top: auto;
+         bottom: 127px;
+         left: 141px;
+         right: auto;
+     }
+
+     .squre {
+         height: 200px;
+         width: 200px;
+     }
+
+     .gethikma-image-2 img {
+         width: 200px;
+         height: 150px;
+         position: absolute;
+         top: 51px;
+         left: auto;
+         right: 31px;
+         bottom: auto;
+     }
+
+     .gethikma p{
+        font-size: 16px;
+     }
+
+     .logg {
+         width: 100px;
+         height: 40px;
+     }
+
+     .learnmore {
+         font-size: 16px;
+     }
+
+     .learn-more {
+        margin-top: 5px ;
+         font-size: 13px;
+     }
+
+     .Our-Mission {
+         padding-block: 50px;
+     }
+     
+     .our-mission {
+         width: 100%;
+         height: 100%;
+     }
+
+     .our-mission-head {
+         bottom: 138px;
+
+     }
+
+     .Our-Mission .col-12 {
+         height: 200px;
+     }
+
+     .our-mission-head h1 {
+         font-size: 35px;
+     }
+
+     .our-mission-head p {
+         font-size: 23px;
+     }
+
+     .image-parent {
+         width: 100%;
+         height: 375px;
+         margin: auto;
+         object-fit: contain;
+     }
+
+     .image-parent2 {
+         width: 100%;
+         height: 375px;
+         margin: auto;
+         object-fit: contain;
+
+     }
+
+     .list .list-item .list-item-icon {
+         width: 20px;
+         height: 20px;
+     }
+
+     .btn-icon {
+         height: 50px;
+         width: 140px;
+     }
+     
+     .btn-icon2 {
+         height: 50px;
+         width: 120px;
+     }
+
+     .main-section h1 {
+         font-size: 28px;
+
+     }
+
+     .parent-card {
+         margin-bottom: 20px;
+     }
+
+     .parent-card h1 {
+         font-size: 28px;
+         font-weight: bold;
+         width: 260px;
+     }
+
+     .parent-card p {
+         font-size: 14px;
+     }
+
+     .card-section {
+         height: 130px;
+         width: 190px;
+     }
+
+     .card-img {
+
+         right: 15px;
+         top: 29px;
+         height: 70px;
+         width: 90px;
+     }
+
+     .card-title-text {
+         font-size: 15px;
+
+     }
+
+     /* end  */
+
+     /* ////////////////////////////////////////////////////////////////////////////////// */
+     .envolope {
+         width: 100%;
+         height: 250px;
+     }
+
+     .contact-us p {
+         font-size: 14px;
+     }
+
+     .contact-us h1 {
+         font-weight: bold;
+         font-size: 28px;
+     }
+
+     .text-email {
+         padding-top: 1.6rem;
+     }
+
+     .your-name {
+
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .email-address {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .subject {
+         width: 100%;
+         height: 38px;
+         margin: auto;
+         padding: 6px 12px;
+         margin-top: 1.6rem;
+     }
+
+     .message-contact {
+         width: 100%;
+         height: 250px;
+         padding: 20px 0px 0px;
+     }
+
+     .send-msg {
+         margin-top: 16px;
+         font-size: 18px;
+         width: 190px;
+         height: 50px;
+     }
+
+     /* ////////////////////////////////////////////////////////////////////////// */
+     .dunya img {
+         width: 95%;
+     }
+
+     /* ////////////////////////////////////////////////////////////////////////// */
+     .letter h1 {
+         font-size: 35px;
+     }
+
+     .letter p {
+         font-size: 14px;
+     }
+
+     .inputsss {
+         width: 100%;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .plane {
+         width: 80px;
+         margin-top: 30px;
+         height: 52px;
+     }
+
+     .mailbox img {
+         margin-top: 50px;
+         width: 100%;
+         height: 100%;
+     }
+
+     .inputs-plane {
+         width: 350px;
+     }
+
+     /* --------------------------------------------------------------------------------------------- */
+     .footer-logo img {
+         width: 216px;
+         height: 47px;
+     }
+
+     .footer-heading {
+         font-size: 18px;
+     }
+
+     .footer-list-item-lorem {
+         font-size: 14px;
+     }
+
+     /* ------------------------------------------------------------------------------------------------ */
+     .massage-image {
+         display: none;
+     }
+
+     .section7 {
+         margin-top: 50px;
+     }
+
+     .massage-image1 {
+         display: none;
+     }
+
+     .massage-image2 {
+         display: none;
+     }
+
+     .massage-image3 {
+         display: none;
+     }
+
+     .box5 {
+         height: 150px;
+         width: 210px;
+     }
+
+     .box6 {
+         height: 150px;
+         width: 210px;
+         top: 0px;
+
+     }
+
+     .Schedule-Meetings p {
+         font-size: 14px;
+     }
+
+     .Schedule-Meetings h1 {
+         font-size: 28px;
+     }
+
+     .copyright {
+         padding: 0px 12px;
+         font-size: 12px;
+     }
+ }
